@@ -1,0 +1,135 @@
+span {
+  color: #fa5aff;
+}
+.footer-colorNum {
+  color: #8b59ff;
+}
+.side-border {
+  border-left: 5px solid #79cdf5;
+  height: auto;
+  border-radius: 2px;
+  padding-left: 15px;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  margin-bottom: 5%;
+  margin-top: 50px;
+}
+
+.heading-part2 {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 70px;
+}
+.box-let img {
+  width: 50%;
+}
+.box1 {
+  background-color: #edf5f6;
+}
+.box2 {
+  background-color: #ffeeee;
+}
+.box3 {
+  background-color: #fff4d6;
+}
+.head-size {
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+.imgth-size {
+  width: 30%;
+  margin-left: 13%;
+  margin-right: -5%;
+}
+.font-size {
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  margin-top: -33px;
+}
+.box-le {
+  margin-left: 6%;
+  width: 20%;
+  border-radius: 10%;
+  padding: 40px 50px;
+}
+.paragraph {
+  font-family: 'Poppins', sans-serif;
+  text-align: justify;
+  font-size: 22px;
+}
+body {
+  margin: 0;
+}
+.main-banner {
+  display: flex;
+  margin-top: 4%;
+}
+.half-width {
+  width: 40%;
+  margin-left: 10%;
+}
+#link-but {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  background-color: #59ffac;
+  padding: 15px 40px;
+  border-radius: 15px;
+}
+.img-size {
+  width: 70%;
+  margin-top: -120px;
+}
+.ice {
+  height: 700px;
+  width: 600px;
+  padding-left: 250px;
+}
+img {
+  width: 95%;
+}
+
+.Develop-dawn {
+  margin-top: 4%;
+  margin-bottom: 10%;
+}
+.img4-size {
+  width: 70%;
+  margin-left: -13%;
+}
+
+.downword {
+  padding-bottom: 150px;
+}
+.footer-heading {
+  font-family: 'Lobster', cursive;
+  font-size: 45px;
+  text-align: center;
+  color: white;
+}
+.foot {
+  text-align: center;
+  color: #d4d4d4;
+  font-family: 'Poppins', sans-serif;
+}
+
+.heading-h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+.foot-col {
+  height: 250px;
+  background-color: rgb(26, 40, 58);
+  padding-top: 20px;
+}
+.h1-heading {
+  font-family: 'Yeseva One';
+  font-size: 60px;
+}
+.font-paragraph {
+  font-size: 23px;
+}
